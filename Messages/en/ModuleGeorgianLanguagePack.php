@@ -3,6 +3,6 @@
 declare(strict_types=1);
 
 return [
-    'BreadcrumbModuleGeorgianLanguagePack' => 'Georgian Language Pack',
+    'BreadcrumbModuleGeorgianLanguagePack' => 'Language Pack - Georgian',
     'SubHeaderModuleGeorgianLanguagePack' => 'Complete Georgian language support for MikoPBX',
 ];
